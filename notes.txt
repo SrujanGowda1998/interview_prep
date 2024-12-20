@@ -1,0 +1,29 @@
+Virtual environment ----------------------------------------------------------------------------------------------------------------
+
+Create
+python -m venv venv_name
+
+Activate
+venv_name\Scripts\activate
+
+Git --------------------------------------------------------------------------------------------------------------------------------
+
+Clone repo
+git clone <repo_url>
+
+Status
+git status
+
+Add
+git add . (adds all files)
+git add <file_name> (add specific files)
+
+Commit
+git commt -m 'commit message'
+
+Push
+git push
+
+Pull - If there are any mismatch in my_branch and the origin branch, git pull and then push
+git pull
+
